@@ -1,3 +1,54 @@
+html{
+    font-size: 14px;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+/*
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Leckerli One', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+*/
 
 
 
+
+
+.navbar-brand{
+
+    font-family: 'Leckerli One', cursive;
+    color: red !important;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.navbar-nav{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.herro{
+    padding: 300px 0;
+    background-size: cover;
+    background-position: center;
+}
+.herro h2{
+    color: #333B46;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.herro p{
+    color: #81868E;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+.mouse{
+    padding-top: 300px;
+}
+.mouse .scroll{
+    font-family: 'Open Sans', sans-serif;
+    color: #E84C3D;
+}
