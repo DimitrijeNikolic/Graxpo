@@ -226,6 +226,9 @@ img{
 .blog .blog-item p{
     font-family: 'Open Sans', sans-serif;   
 }
+.blog .subscribe{
+    font-size: 11px;
+}
 .contact h2{
     color: #333B46;
     font-size: 20px;
@@ -239,6 +242,9 @@ img{
 }
 .contact textarea{
     resize: none;
+}
+.contact .submit{
+    font-size: 10px;
 }
 .contact .fa{
     color: #E84C3D;

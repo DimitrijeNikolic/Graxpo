@@ -2,8 +2,12 @@
 
 
 @media(min-width:576px){
-    
-    
+    .blog .subscribe{
+    font-size: 9px;
+}
+    .contact .submit{
+    font-size: 9px;
+}
     
     
     
@@ -36,8 +40,12 @@
     text-align: center;
     padding: 20px 5px;
 }
-    
-    
+    .blog .subscribe{
+    font-size: 12px;
+}
+    .contact .submit{
+    font-size: 12px;
+}
     
 }
 
@@ -67,8 +75,12 @@
     text-align: center;
     padding: 20px 5px;
 }
-    
-    
+    .blog .subscribe{
+    font-size: 1rem;
+}
+    .contact .submit{
+    font-size: 1rem;
+}
 }
 
 
